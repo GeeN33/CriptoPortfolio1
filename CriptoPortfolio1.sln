@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CriptoPortfolio1.Android", "CriptoPortfolio1.Android\CriptoPortfolio1.Android.csproj", "{9F4C9AC6-F693-4AFB-8C80-C0C92405C4F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CriptoPortfolio1", "CriptoPortfolio1\CriptoPortfolio1.csproj", "{03DD2B6C-519C-4575-A180-EF6FB24067D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F4C9AC6-F693-4AFB-8C80-C0C92405C4F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F4C9AC6-F693-4AFB-8C80-C0C92405C4F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F4C9AC6-F693-4AFB-8C80-C0C92405C4F0}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9F4C9AC6-F693-4AFB-8C80-C0C92405C4F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F4C9AC6-F693-4AFB-8C80-C0C92405C4F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F4C9AC6-F693-4AFB-8C80-C0C92405C4F0}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{03DD2B6C-519C-4575-A180-EF6FB24067D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03DD2B6C-519C-4575-A180-EF6FB24067D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03DD2B6C-519C-4575-A180-EF6FB24067D6}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{03DD2B6C-519C-4575-A180-EF6FB24067D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03DD2B6C-519C-4575-A180-EF6FB24067D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03DD2B6C-519C-4575-A180-EF6FB24067D6}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8830B415-FEC2-403E-B20B-A14F57B28846}
+	EndGlobalSection
+EndGlobal
